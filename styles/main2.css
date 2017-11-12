@@ -1,0 +1,46 @@
+/*========================*/
+/*HEADER*/
+/*========================*/
+header {
+	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.3)), url(images/computer.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 75vh;
+	background-attachment: fixed;
+}
+
+.title {
+	text-align: center;
+	padding: 40px 0;
+}
+
+// #about,
+// #projects,
+// #contact {
+// 	height: 75vh;
+// }
+
+.hero-text-box {
+	position: absolute;
+	width: 1140px;
+	top: 30%;
+	left: 35%;
+	color: #FAE92D;
+}
+
+i.fa.fa-file-text-o,
+i.fa.fa-linkedin-square,
+i.fa.fa-github {
+	font-size: 280%;
+	padding: 0 10px;
+}
+
+.col-md-12 {
+	text-align: center;
+}
+
+footer {
+	margin-top: 20px;
+}
+
+
